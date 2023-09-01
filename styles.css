@@ -1,0 +1,28 @@
+.container {
+    background-color: black;
+    color: #fff
+}
+
+.nav {
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+.inicio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 50%;
+}
+
+.inicio img {
+    width: 500px;
+    height: 300px;
+}
+
+.buttons {
+    padding: 20px;
+}
